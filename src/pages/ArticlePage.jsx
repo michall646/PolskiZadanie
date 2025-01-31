@@ -24,7 +24,7 @@ function ArticlePage() {
       <article className="glass article-content">
         <span className="category">{article.category}</span>
         <h1>{article.title}</h1>
-        <p className="author">By {article.author}</p>
+        <p className="author">Napisane przez: {article.author}</p>
         <div className="content">
           {getContent()}
         </div>

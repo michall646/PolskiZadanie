@@ -1,22 +1,29 @@
 export const newsItems = [
   {
     id: 1,
-    title: "Stan polskiej piłki nożnej na rok 2025",
-    content: "Jak nam (nie) idzie w najpopularniejszym sporcie",
-    category: "Piłka nożna",
-    author: "Michał Czerwiński",
+    title: "Sukcesy polskich sportowców ",
+    content: "Historia i podsumowanie naszych osiągnięć sportowych",
+    category: "Różne",
+    author: "Jan Banek",
     paragraphs: [
-      "Polska piłka nożna to temat, który od lat budzi skrajne emocje. Z jednej strony mamy bogatą historię pełną niezapomnianych chwil, takich jak sukcesy kadry Kazimierza Górskiego w latach 70., a z drugiej strony nieustannie zmagamy się z problemami, które wydają się wręcz nie do pokonania. Czy polska piłka nożna to fenomen, czy raczej tragikomedia?", 
-      "Wspomnienia z dawnych lat są piękne. Orły Górskiego, trzecie miejsce na mistrzostwach świata w 1974 roku, niezapomniane mecze i postacie takie jak Grzegorz Lato czy Zbigniew Boniek – to wszystko budowało mit polskiej piłki nożnej. Jednakże, patrząc na dzisiejszą sytuację, trudno oprzeć się wrażeniu, że żyjemy głównie przeszłością, nie potrafiąc wykonać kroku naprzód.",
-      "W polskiej Ekstraklasie, mimo sporych inwestycji w stadiony i infrastrukturę, poziom gry pozostawia wiele do życzenia. Nie można jednak całkowicie winę zrzucać na piłkarzy. Głębsze problemy leżą w zarządzaniu, szkoleniu młodzieży oraz ogólnym podejściu do sportu. W kraju, gdzie piłka nożna jest niemal religijna, brakuje systematyczności i długofalowej wizji rozwoju.",
-      "Jednym z kluczowych problemów jest brak odpowiedniego szkolenia młodzieży. Owszem, powstaje coraz więcej akademii piłkarskich, ale czy rzeczywiście przygotowują one zawodników na miarę europejskich standardów? Wielu młodych piłkarzy, nawet tych uzdolnionych, znika z radarów, nie mając szans na rozwój w profesjonalnych warunkach. Brakuje kompleksowego systemu, który pozwoliłby wyłowić talenty i zapewnić im odpowiedni rozwój.",
-      "Również na poziomie reprezentacyjnym mamy swoje problemy. Choć mamy w składzie takich zawodników jak Robert Lewandowski, to ich potencjał często nie zostaje w pełni wykorzystany. Zmiany selekcjonerów, brak spójnej strategii i presja medialna robią swoje. Zamiast budować drużynę, często improwizujemy, liczymy na indywidualne zrywy i szczęśliwe przypadki.",
-      "Nie możemy także przemilczeć ostatnich porażek polskich zawodników, które pokazują, że problem nie dotyczy jedynie struktury, ale również mentalności. Przegrane mecze w eliminacjach do turniejów międzynarodowych, brak formy kluczowych graczy i brak zaangażowania w decydujących momentach świadczą o głębokim kryzysie. Ostatnie spotkania z teoretycznie słabszymi rywalami pokazały, że brak zgrania i pomysłu na grę stały się smutną normą. Zamiast dominować, często bronimy się przed kompromitacją, co jest nieakceptowalne dla kraju z taką piłkarską tradycją.",
-      "Mimo wszystko polska piłka nożna wciąż ma swoich wiernych fanów. Kibice, którzy każdy weekend zasiadają na stadionach lub przed telewizorami, wiedzą, że futbol to więcej niż sport – to emocje, pasja i poczucie wspólnoty. Dlatego też warto walczyć o poprawę sytuacji. Potrzebujemy wizji, determinacji i liderów, którzy nie będą bać się podejmować trudnych decyzji."
+      "Polska oprócz bogatej historii posiada również wiele ciężko wypracowanych, sportowych sukcesów. Polacy wielokrotnie pokazali całemu światu ich talent, ducha walki i ciężką prace. W tym artykule postaram się przedstawić niektóre z tych wielkich osiągnięć",
+      "Siatkówka",
+      "Siatkówka jest sportem, w którym Polska osiągała największe sukcesy. W 1974r. i w 2014r. polacy zdobyli złote medale na mistrzostwach świata, a w 2003r., 2005r. i 2009r. na mistrzostwach Europy. Najbardziej znani zawodnicy to m.in. Bartosz Kurek, Paweł Zagumny i Michał Winiarski. ",
+      "Piłka nożna",
+      "Polska reprezentacja piłki nożnej  min. w latach 1970r. -1985r. Jej ważne osiągnięcia to min. zajęcie trzeciego miejsca na mistrzostwach świata w 1974r. i w 1982r.. Warto także wspomnieć o współczesnych zawodnikach. Jednym z nich jest Robert Lewandowski, czyli jeden z najlepszych napastników na świecie. Jako kapitan klubu Bayern Monachium zdobywał wiele tytułów i wyróżnień np. złotą piłkę ",
+      "Skoki narciarskie",
+      "Skoki narciarskie to sport, w którym polska jest znana na całym świecie zwłaszcza dzięki osiągnięciom Adama Małysza i Kamila Stocha. Zdobywali oni nagrody takie jak kryształowe kule i złote medale olimpijskie. ",
+      "Podsumowanie",
+      "Polska od lat osiąga wiele sukcesów na arenie międzynarodowej, dzięki determinacji talencie i poświęceniom polskich zawodników. Należy także pamiętać, że osiągnięcia w siatkówce, piłce nożnej i w skokach narciarskich to tylko niektóre z przykładów, które pokazują jak dobrze Polscy sportowcy radzą sobie w sporcie. ",
+
+
     ],
     images: [
-      "https://images.pexels.com/photos/28539583/pexels-photo-28539583/free-photo-of-majestatyczne-szczyty-gorskie-o-wschodzie-slonca.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
-      "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg"
+      "https://images.pexels.com/photos/5611/sky-blue-flag-poland.jpg",
+      "https://naostro.info/wp-content/uploads/2024/08/49265586_49265589.jpg",
+      "https://s2.tvp.pl/images2/b/0/0/uid_b00f09ee7eed4d9f931ca4cf5ab71f84_width_1200_play_0_pos_0_gs_0_height_678_kiedy-nastepny-mecz-reprezentacji-polski-sprawdz-terminarz-kadry-w-2024-fot-getty.jpg",
+      "https://s4.tvp.pl/images2/4/a/8/uid_4a83b6ea314a1785fc2aafe62d66be491634661603746_width_1200_play_0_pos_0_gs_0_height_678_polscy-skoczkowie-fot-getty-images.jpg",
+      "https://s7.tvp.pl/images2/7/e/5/uid_7e547895184d4861b64c50d8eee18a19_width_1200_play_0_pos_0_gs_0_height_678_polska-usa-na-zywo-transmisja-polfinalu-siatkowki-na-olimpiadzie-na-zywo-online-w-tvp-sport-07082024.jpg"
     ]
     
   },
@@ -39,8 +46,10 @@ export const newsItems = [
 
     ],
     images: [
-      "https://images.pexels.com/photos/28539583/pexels-photo-28539583/free-photo-of-majestatyczne-szczyty-gorskie-o-wschodzie-slonca.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
-      "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg"
+      "https://pzpn.pl/public/system/images/articles/8994/12722-zoom.jpg?ts=9d76ba42cb52ec2f10b6cd4d073f341e",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxBODIn9Xg5JSrbWHkII4lsaNeo_be7KbuJA&s",
+      "https://s5.tvp.pl/images2/5/8/c/uid_58c0da26f8bd4af49bca54dd01b3c0c1_width_1200_play_0_pos_0_gs_0_height_678_w-marcu-min-przynajmniej-jeden-mecz-reprezentacji-polski-w-barazach-o-euro-2024-fot-getty-images.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRf6s6WiLFIaZ4VgH-hOFhun9Lr8TQ5iXhcA&s"
     ]
     
   },
