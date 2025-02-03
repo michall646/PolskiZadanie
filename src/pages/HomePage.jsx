@@ -5,7 +5,7 @@ import { newsItems, categoryNames } from '../data/newsItems'
 const NewsCard = ({ id, title, content, category }) => (
   <Link to={`/article/${id}`} className="news-card-link">
     <div className="glass news-card">
-      <span className="category">{category}</span>
+      <span className="category">{categoryNames[category]}</span>
       <h3>{title}</h3>
       <p>{content}</p>
     </div>

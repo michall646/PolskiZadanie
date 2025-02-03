@@ -3,7 +3,7 @@ export const newsItems = [
     id: 1,
     title: "Sukcesy polskich sportowców ",
     content: "Historia i podsumowanie naszych osiągnięć sportowych",
-    category: "Różne",
+    category: "rozne",
     author: "Jan Banek",
     paragraphs: [
       "Polska oprócz bogatej historii posiada również wiele ciężko wypracowanych, sportowych sukcesów. Polacy wielokrotnie pokazali całemu światu ich talent, ducha walki i ciężką prace. W tym artykule postaram się przedstawić niektóre z tych wielkich osiągnięć",
@@ -31,7 +31,7 @@ export const newsItems = [
     id: 2,
     title: "Stan polskiej piłki nożnej na rok 2025",
     content: "Polska piłka nożna: między płaczem a śmiechem, czyli jak przetrwać mecz bez zawału",
-    category: "Piłka nożna",
+    category: "pilka-nozna",
     author: "Michał Czerwiński",
     paragraphs: [
       "Polska piłka nożna to jak stary, kapryśny samochód. Czasem jedzie gładko, a czasem nagle gaśnie na środku autostrady, zostawiając nas z ręką w nocniku i pytaniem: „Dlaczego ja to jeszcze lubię?”. Ale cóż, to nasza piłka – pełna wzlotów, upadków i momentów, kiedy chce się wyłączyć telewizor, ale jednocześnie nie można oderwać wzroku, bo co jeśli tym razem się uda? No właśnie, „co jeśli” – to ulubione słowo każdego polskiego kibica.",
@@ -53,6 +53,25 @@ export const newsItems = [
     ]
     
   },
+  {
+    id: 3,
+    title: "Rozpędzona lokomotywa Euro 2016",
+    content: "",
+    category: "pilka-nozna",
+    author: "Jakub Gomuła",
+    paragraphs: [
+      "Każdy polski kibic zapamiętał szczególnie Mistrzostwa Europy w 2016 r we Francji i nastroje towarzyszące drużynie piłkarskiej Adama Nawałki. Przed eliminacjami trudno było o optymizm, tym bardziej, że nasza reprezentacja nie popisała się na mundialu. Brak wiary w biało- czerwonych był prawdziwą motywacją do ciężkiej pracy dla całego zespołu.  To był najważniejszy argument, grać i nie zawieść!",
+      "Reprezentacja Polski wylosowała grupę C, która budziła mieszane odczucia. Pierwszym rywalem drużyny była  Irlandia Północna, mecz odbył  się w Nicei.  Polacy podchodzili do niego  ostrożnie, mieli powody do niepewności. Wkrótce wszyscy byli zaskoczeni skuteczną grą  biało-czerwonych. Polska reprezentacja dominowała w strzałach, posiadaniu piłki, ale wciąż mieliśmy niedosyt. W końcu mocny strzał  Arkadiusza Milika, zapewnił  drużynie zwycięstwo. Nie był to jednak wybitny mecz tego piłkarza, ale zwycięstwo 1-0 podniosło ducha walki i wiarę w dalsze sukcesy.  W drużynie powiało optymizmem. Wszyscy czekali na więcej. Po zdobyciu 3 punktów Polacy rozegrali 16 czerwca w Saint -Denis następny mecz z potężnymi Niemcami, naszym najtrudniejszym partnerem. Wprawdzie zabrakło zwycięskiej bramki, bo mecz zakończył się wynikiem bezbramkowym i mieliśmy pewne zastrzeżenia do  gry Milika, ale i Niemcy mogli dać z siebie więcej. I choć  w tym meczu zdobyliśmy tylko 1  punkt, podziwialiśmy skuteczność  Łukasza  Fabiańskiego, który zastępował kontuzjowanego Wojciecha Szczęsnego.",
+      "Ostatni mecz w grupie biało - czerwoni rozegrali 21 czerwca w Marsylii z Ukrainą. Po nieudanych strzałach Milika i Lewandowskiego, sytuację uratował niezrównany Jakub Błaszczykowski. Zawodnik rozegrał świetny mecz, oddał perfekcyjny strzał lewą nogą! I właśnie to trafienie zadecydowało o awansie naszej drużyny. Znów zdobyliśmy 3 punkty! Polacy pokazali charakter i chęć walki, pomimo wcześniejszego zwątpienia w drużynę, zaczęli odnosić sukcesy . Zdobywając 7 punktów  awansowaliśmy do 1/8 finału. Naszym kolejnym, wymagającym rywalem była Szwajcaria. Był to bardzo wyrównany mecz, obie drużyny cały czas atakowały. W końcu, dzięki bramce J. Błaszczykowskiego, objęliśmy prowadzenie 1-0.  Niestety Szwajcarzy zaczęli dominować w 2-giej połowie meczu. W rezultacie doszło do dogrywki, tu też było bardzo trudno! O wyniku zadecydowały rzuty karne. Został decydujący strzał. Piękny strzał oddał Grzegorz Krychowiak, przypieczętował fantastyczne zwycięstwo naszej reprezentacji Ale były emocje!  Dzięki czemu weszliśmy do ćwierćfinału. Był to wielki sukces Polaków.",
+      "Następnym rywalem naszej kadry była Portugalia. Od początku meczu pokazaliśmy się ze znakomitej strony. I już na początku spotkania, w 2 minucie, nasz kapitan R. Lewandowski zdobył bramkę. Łukasz Fabiański z niezwykłą precyzją, bronił strzały wyśmienitych Portugalczyków. Niestety później prowadzenie objęli Portugalczycy. I pomimo gry, wielkiego Cristiano Ronaldo, drużyna Nawałki wywalczyła remis. Pokonały nas dopiero rzuty karne, strzał  Jakuba Błaszczykowskiego obrobił niezrównany Rui Patrico. Przegraliśmy, ale z najlepszą drużyną, mistrzami Euro 2016. Zwątpienie przerodziło się jednak w triumf. Polska drużyna dowiodła, że warto wierzyć i walczyć. Pokazali prawdziwy charakter i wielkie zaangażowanie. Można zatem śmiało powiedzieć, że nasza reprezentacja odniosła wielki sukces, a Adam Nawałka wpisał się do historii jako jeden z najlepszych polskich trenerów piłki nożnej."
+    ],
+    images: [
+      "https://ipla.pluscdn.pl/dituel/cp/bx/bx7ryq75i4fgpmruy5wksd1wdmat5x72.jpg",
+      "https://cdn.laczynaspilka.pl/cms2/prod/sites/default/files/styles/bpp_medium/public/2019-05/20160630CSLG0158.JPG",
+
+    ]
+    
+  },
   
   // ...existing news items with added id property...
 ];
@@ -61,5 +80,6 @@ export const categoryNames = {
   'all': 'Wszystkie',
   'pilka-nozna': 'Piłka nożna',
   'siatkowka': 'Siatkówka',
-  'tenis': 'Tenis'
+  'tenis': 'Tenis',
+  'rozne': 'Różne',
 };

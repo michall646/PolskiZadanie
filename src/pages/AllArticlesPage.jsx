@@ -30,7 +30,7 @@ function AllArticlesPage() {
               to={`/article/${article.id}`} 
               className="article-list-item glass"
             >
-              <span className="category">{article.category}</span>
+              <span className="category">{categoryNames[article.category]}</span>
               <h2>{article.title}</h2>
               <p className="article-preview">{article.content}</p>
               <p className="article-author">By {article.author}</p>

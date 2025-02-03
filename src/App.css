@@ -350,7 +350,7 @@ h3 {
 }
 
 .articles-list {
-  display: grid;
+  display: flex;
   gap: 2rem;
   max-width: 900px;
   margin: 0 auto;

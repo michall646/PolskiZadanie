@@ -12,7 +12,7 @@ function ArticlePage() {
 
   const getContent = () => {
     console.log(article.images.length)
-    return article.paragraphs.map((item, index) => <><p>{item}</p>{index % 2 == 0 && <img style={{width: '80%'}} src={article.images[index / 2 % article.images.length ]}/>}</>)
+    return article.paragraphs.map((item, index) => <><p>{item}</p>{index % 2 == 0 && <img style={{width: "100%"}} src={article.images[index / 2 % article.images.length ]}/>}</>)
   }
 
   return (
