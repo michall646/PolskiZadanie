@@ -14,7 +14,7 @@ const App = () => {
         <FloatingOrbs />
         <nav className="nav-bar">
           <Link to="/" style={{ textDecoration: 'none', color: 'white' }}>
-            <h1>POLACY WE SPORCIE</h1>
+            <h1>POLACY W SPORCIE</h1>
           </Link>
           <div className="nav-menu">
             <Link to="/articles" className="nav-link">Wszystkie artykuły</Link>
